@@ -1,2 +1,1 @@
-# prepcourse-HENRY
-Un repositorio para practicas de henry
+Este pproyecto es una prueba de henry
